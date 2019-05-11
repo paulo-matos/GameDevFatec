@@ -1,0 +1,17 @@
+Princípios de animação usados na Disney:
+https://www.youtube.com/watch?v=uDqjIdI4bF4&t=582s
+
+Parallel parking animation:
+https://www.youtube.com/watch?v=LNJkQTpJmoo
+
+FPS: Frames por segundo
+Padrão das telas 30fps
+Novo padrão está se tornando 60fps
+Padrão do cinema 24fps
+
+Walk Cycle / Walking Cycle:
+Ciclo de caminhada; posições-chave utilizadas para definir animação de caminhada de um personagem
+
+- Normalmente o som é feito/gravado antes da animação ser feita, para que haja sincronia
+- Lipsync = sincronia labial. Muitas animações usam dessa técnica e precisam ter as sílabas bem específicadas
+- MoCap = Motion Capture: Captura de movimentos. Técnica utilizada principalmente no cinema mas também em jogos, que permite capturar os movimentos de um ator e transferi-los para um modelo 3D.
