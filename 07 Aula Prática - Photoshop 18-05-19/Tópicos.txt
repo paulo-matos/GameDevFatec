@@ -1,0 +1,9 @@
+Aula prática de Photoshop
+
+Tópicos da aula:
+Interface - conhecendo o Photoshop CS6
+Usos do Photoshop na área de games
+Brushes
+Resoluções e como alterar o tamanho das imagens
+Camadas e Transparência
+Editando o fundo das imagens

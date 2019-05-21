@@ -1,7 +1,7 @@
 # GameDevFatec
 
 ## git de repositorio de aulas e infos do grupo 
->>cronograma no modulo 02
+>>cronograma atualizado no modulo 07
 >>
 >>
 
